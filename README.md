@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="image/1.jpg" width="320" height="240" />
+<img src="image/2.jpg" width="320" height="240" />
+
+![GitHub followers](https://img.shields.io/github/followers/Emmett6401?style=social)![GitHub stars](https://img.shields.io/github/stars/Emmett6401?style=social)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![image](https://github.com/user-attachments/assets/d8763f93-60a0-4fc5-8989-989502b35dd4)

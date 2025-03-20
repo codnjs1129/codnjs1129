@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <img src="image/1.jpg" width="320" height="240" />
 <img src="image/2.jpg" width="320" height="240" />
 
-![GitHub followers](https://img.shields.io/github/followers/Emmett6401?style=social)![GitHub stars](https://img.shields.io/github/stars/Emmett6401?style=social)
+![GitHub followers](https://img.shields.io/github/followers/codnjs1129?style=social)![GitHub stars](https://img.shields.io/github/stars/codnjs1129?style=social)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emmett6401&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codnjs1129&show_icons=true&theme=radical)
 ![image](https://github.com/user-attachments/assets/e7ce71cb-e1fd-4590-b759-edbd20f7cba4)
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" width="40" height="40" />![image](https://github.com/user-attachments/assets/ab4f0430-d359-4660-a41a-3106c9c66921)
